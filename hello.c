@@ -2,6 +2,8 @@
 
 int main()
 {
-	printf("Hello, World!\n")
+	printf("Hello, World!\n");
+	int x = 10;
+	x++;
 	return 0;
 }
